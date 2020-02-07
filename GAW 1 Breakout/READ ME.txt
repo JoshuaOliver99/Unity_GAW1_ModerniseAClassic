@@ -1,0 +1,23 @@
+Joshua Simpson - Game a Week 1 - Modernise a Classic - Breakout Remake, BREAKOUT INFINATE
+
+BREAKOUT INFINATE is an alternate take on the original Breakout for the Atari2600, featuring:
+- Continiously spawning walls of bricks
+- Power-up's - Extra Ball, Extra Life, Delay Wall Spawning
+
+The objective is achieving the highest score possible.
+
+Controls:
+A & Left Arrow - Move left
+D & Right Arrow - More Right
+Space - Fire Ball from pad
+Escape - Exit Game
+
+
+Sources:
+
+Sound Effects created with: Bfxr
+Source: https://www.bfxr.net/
+
+Main Unity coding practice learnt from: Learn Unity for Android Game Development
+Book by Adam Sinicki
+Published by Apress
